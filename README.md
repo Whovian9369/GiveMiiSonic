@@ -1,5 +1,5 @@
 # GiveMiiSonic
-This is a patch that enables automatic booting of a debug menu for the 2016 video game "Mario & Sonic at the Rio 2016 Olympic Games" on the Wii U... But only for the European and USA copies of the game.
+This is a patch for the Wii U "Aroma" environment that enables automatic booting of a debug menu for the 2016 video game "Mario & Sonic at the Rio 2016 Olympic Games" on the Wii U... But only for the European and USA copies of the game.
 
 ## Special Thanks to
 [@GaryOderNichts](https://github.com/GaryOderNichts) for some guidance, and for making [GiveMiiYoutube](https://github.com/PretendoNetwork/GiveMiiYouTube) in the first place that I then modified.
